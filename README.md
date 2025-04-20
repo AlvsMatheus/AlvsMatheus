@@ -1,10 +1,10 @@
-<img width="900" height="350" src="animation cat GIF by Natt Rocha.gif"></p>
+<img width="900" height="400" src="animation cat GIF by Natt Rocha.gif"></p>
 
-# 💫 About Me:
-"Nah, I'm programming 😴💻"
+# "Nah, I'm programming 😴💻"
 
 
-## 🌐 Socials:
+
+## 🌐 contact me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1338604712295137434) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvmatheuus) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Matheussilvaemac@gmail.com) 
 
 # 💻 Tech Stack:
