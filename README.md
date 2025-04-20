@@ -16,7 +16,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center">![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)</p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlvsMatheus&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
