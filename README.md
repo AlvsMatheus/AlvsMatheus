@@ -1,6 +1,4 @@
-## I'm Alvez 
-
-<img width="900" height="300" src="animation cat GIF by Natt Rocha.gif"></p>
+<img width="900" height="350" src="animation cat GIF by Natt Rocha.gif"></p>
 
 # 💫 About Me:
 "Nah, I'm programming 😴💻"
