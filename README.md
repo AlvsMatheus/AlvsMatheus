@@ -1,6 +1,6 @@
 <img width="900" height="360" src="animation cat GIF by Natt Rocha.gif"></p>
 
-# "Nah, I'm programming 😴"
+<p align="center"> "Nah, I'm programming 😴"</p>
 
 
 
