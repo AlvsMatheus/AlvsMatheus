@@ -1,4 +1,4 @@
-<img width="900" height="400" src="animation cat GIF by Natt Rocha.gif"></p>
+<img width="900" height="360" src="animation cat GIF by Natt Rocha.gif"></p>
 
 # "Nah, I'm programming 😴"
 
