@@ -1,4 +1,4 @@
-<img width="900" height="360" src="Pixel Art GIF.gif"></p>
+<img width="900" height="360" src="8bit GIF.gif"></p>
 
 <h1 align="center"> "Nah, I'm programming 😴"</h1>
 
