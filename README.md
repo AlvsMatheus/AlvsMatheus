@@ -1,5 +1,7 @@
 ## I'm Alvez 
 
+<img src="animation cat GIF by Natt Rocha.gif">
+
 # 💫 About Me:
 "Nah, I'm programming 😴💻"
 
