@@ -1,6 +1,6 @@
 <img width="900" height="360" src="8bit GIF.gif"></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F56C&repeat=false&width=435&lines=%22Nah%2C+I'm+programming+%F0%9F%98%B4%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F56C&center=true&vCenter=true&repeat=false&width=443&lines=%22Nah%2C+I'm+programming+%F0%9F%98%B4%22)](https://git.io/typing-svg)
 
 
 
